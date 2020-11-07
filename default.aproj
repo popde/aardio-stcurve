@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project ver="10" name="ST Curve" libEmbed="true" icon="..." ui="win" output="st curve.exe" CompanyName="fy-tech" FileDescription="st curve" LegalCopyright="Copyright (C) fy-tech 2018" ProductName="st curve" InternalName="st curve" FileVersion="0.0.0.14" ProductVersion="0.0.0.14" publishDir="/Publish/" dstrip="false">
+	<file name="main.aardio" path="main.aardio" comment="main.aardio"/>
+	<folder name="资源文件" path="res" embed="true">
+		<folder name="ocx" path="res\ocx" comment="res\ocx" embed="false">
+			<file name="ST_Curve.ocx" path="res\ocx\ST_Curve.ocx" comment="res\ocx\ST_Curve.ocx"/>
+			<file name="函数列表.txt" path="res\ocx\函数列表.txt" comment="res\ocx\函数列表.txt"/>
+		</folder>
+	</folder>
+	<folder name="窗体文件" path="dlg" comment="目录" embed="true"/>
+</project>
