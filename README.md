@@ -7,6 +7,6 @@ aardio是windows平台使用最简单的编程软件, 无论是调用ocx或者dl
 更多功能请参考st-curve波形图控件的官方文档.
 
 注意: 此示例代码来自 ST_Curve演示测试by[寻-浔-荨&] 
-关于st-curve的一些使用, 详细可参考:https://www.htmlayout.cn/t/250
+关于st-curve的一些使用, 详细可参考:https://www.aardio.com.cn/t/250
 
 ![image](https://github.com/popde/aardio-stcurve/blob/main/QQ%E6%88%AA%E5%9B%BE20201107212243.png)
